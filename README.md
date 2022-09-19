@@ -7,7 +7,7 @@
 
 - :computer: learning **software engeneering** at 42 Tokyo
 
-- :performing_arts: **traveling & reading**
+- :performing_arts: activities : **traveling & reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
