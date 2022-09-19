@@ -3,7 +3,7 @@
 
 <h3> Interests </h3>
 
-- :pencil2: learning **Mathematical Statistics, Econometrics, Microeconomics and Data Science** at Waseda University
+- :pencil2: learning **Econometrics, Microeconomics and Data Science** at Waseda University
 
 - :computer: learning **software engeneering** at 42 Tokyo
 
