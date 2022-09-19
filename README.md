@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sawada, K</h1>
 <h3 align="center">A student at Waseda University & 42 Tokyo</h3>
 
-- 🌱 I’m currently learning **Mathematical Statistics, Econometrics, Microeconomics, Data Science**
+- :pencil2: learning **Mathematical Statistics, Econometrics, Microeconomics, Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
