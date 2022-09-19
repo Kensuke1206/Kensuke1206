@@ -3,7 +3,9 @@
 
 <h3> Interests </h3>
 - :pencil2: learning **Mathematical Statistics, Econometrics, Microeconomics and Data Science** at Waseda University
+
 - :computer: learning **software engeneering** at 42 Tokyo
+
 - :performing_arts: **traveling & reading**
 
 <h3 align="left">Connect with me:</h3>
