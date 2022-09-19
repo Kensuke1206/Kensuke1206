@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sawada, K</h1>
 <h3 align="center">A student majoring in Econometrics </h3>
 
-<h3 align="left"> Interests </h3>
+<h3> Interests </h3>
 - :pencil2: learning **Mathematical Statistics, Econometrics, Microeconomics and Data Science** at Waseda University
 - :computer: learning **software engeneering** at 42 Tokyo
 - :performing_arts: **traveling & reading**
